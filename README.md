@@ -1,4 +1,4 @@
 puppet_1
 ========
 
-Puppet Tutorial
+Puppet (and git) Tutorial
